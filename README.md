@@ -130,9 +130,6 @@ Building scalable backend systems, exploring cloud technologies, and solving DSA
 
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanmayjoshi01/tanmayjoshi01/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
 
 ---
 
