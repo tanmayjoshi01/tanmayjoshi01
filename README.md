@@ -88,3 +88,7 @@ Laundry Management System.
 <img src="https://streak-stats.demolab.com?user=tanmayjoshi01&theme=tokyonight"/>
 
 </p>
+
+## 📈 Contribution Graph
+
+[![Tanmay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmayjoshi01&theme=tokyo-night)](https://github.com/tanmayjoshi01)
