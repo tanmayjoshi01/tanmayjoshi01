@@ -57,17 +57,12 @@ Uber-like mechanic booking platform.
 ### 🧺 LaundroCare
 Laundry Management System.
 
-<h2 align="center">🛠 Tech Stack</h2>
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
-<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,spring,mysql,mongodb,docker,kubernetes,aws,git,github,vscode,linux&perline=10" />
+
 </p>
 
 ## 📊 GitHub Stats
