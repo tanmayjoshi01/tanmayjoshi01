@@ -56,3 +56,21 @@ Uber-like mechanic booking platform.
 
 ### 🧺 LaundroCare
 Laundry Management System.
+
+## 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge&logo=springboot)
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
