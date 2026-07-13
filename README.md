@@ -43,7 +43,7 @@ Building scalable backend systems, exploring cloud technologies, and solving DSA
 </a>
 
 </p>
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 ### 🌾 Farm2Home
 Digital marketplace connecting farmers and buyers.
@@ -65,17 +65,19 @@ Laundry Management System.
 
 </p>
 
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanmayjoshi01&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanmayjoshi01&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=tanmayjoshi01&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=tanmayjoshi01&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjoshi01&layout=compact&theme=tokyonight"/>
 
 </p>
 
