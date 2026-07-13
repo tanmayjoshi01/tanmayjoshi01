@@ -31,19 +31,19 @@ Building scalable backend systems, exploring cloud technologies, and solving DSA
 
 <p align="center">
 
-<a href="https://leetcode.com/u/ORxvblZjHQ/" target="_blank">
+<a href="https://leetcode.com/u/ORxvblZjHQ/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/TanmaySJ_03" target="_blank">
+<a href="https://codeforces.com/profile/TanmaySJ_03">
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://github.com/tanmayjoshi01" target="_blank">
+<a href="https://github.com/tanmayjoshi01">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tanmay-joshi-540678374/" target="_blank">
+<a href="https://www.linkedin.com/in/tanmay-joshi-540678374/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -53,12 +53,31 @@ Building scalable backend systems, exploring cloud technologies, and solving DSA
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌾 **Farm2Home** | Digital agricultural marketplace connecting farmers and buyers |
-| 📰 **CredCheck AI** | AI-powered fake news detection using NLP & Machine Learning |
-| 🔧 **Mechanic On Demand** | Uber-like platform connecting users with nearby mechanics |
-| 🧺 **LaundroCare** | Laundry Management System for local businesses |
+### 🌾 Farm2Home
+Digital marketplace connecting farmers and buyers.
+
+**Tech:** MERN Stack • MongoDB
+
+---
+
+### 📰 CredCheck AI
+AI-powered fake news detection using NLP and Machine Learning.
+
+**Tech:** Python • Flask • Transformers
+
+---
+
+### 🔧 Mechanic On Demand
+Uber-like platform connecting users with nearby mechanics.
+
+**Tech:** Spring Boot • React • MySQL
+
+---
+
+### 🧺 LaundroCare
+Laundry Management System for local businesses.
+
+**Tech:** Flask • JavaScript • Supabase
 
 ---
 
@@ -84,29 +103,11 @@ Building scalable backend systems, exploring cloud technologies, and solving DSA
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanmayjoshi01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=tanmayjoshi01&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjoshi01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayjoshi01&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayjoshi01&theme=tokyo-night"/>
 
 </p>
 
@@ -116,7 +117,7 @@ Building scalable backend systems, exploring cloud technologies, and solving DSA
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/tanmayjoshi01/tanmayjoshi01/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/tanmayjoshi01/tanmayjoshi01/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -157,7 +158,5 @@ Building scalable backend systems, exploring cloud technologies, and solving DSA
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=tanmayjoshi01&label=Profile+Views&color=0e75b6&style=flat"/>
-
 </p>
