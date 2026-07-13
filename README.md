@@ -12,3 +12,12 @@ Building scalable backend systems, exploring cloud technologies, and solving DSA
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Cloud+Engineer+in+Progress;Backend+Developer;Competitive+Programmer;Learning+System+Design;Always+Building+Something+New"/>
 
 </p>
+## 🚀 About Me
+
+- 🎓 Third Year B.E. Information Technology Student
+- ☁️ Learning AWS, Docker, Kubernetes & DevOps
+- 💻 Passionate about Backend Development
+- 📚 Exploring System Design and Computer Networks
+- 🧠 Solving DSA using C++
+- 🚀 Building Full Stack Applications
+- 🏆 Hackathon Participant
