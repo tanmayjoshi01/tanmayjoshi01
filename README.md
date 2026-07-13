@@ -92,3 +92,17 @@ Laundry Management System.
 ## 📈 Contribution Graph
 
 [![Tanmay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmayjoshi01&theme=tokyo-night)](https://github.com/tanmayjoshi01)
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:tanmay.joshi2506@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanmay-joshi-540678374/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
