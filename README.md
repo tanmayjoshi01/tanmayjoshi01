@@ -103,7 +103,6 @@ Laundry Management System for local businesses.
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
