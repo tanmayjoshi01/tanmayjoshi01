@@ -21,3 +21,25 @@ Building scalable backend systems, exploring cloud technologies, and solving DSA
 - 🧠 Solving DSA using C++
 - 🚀 Building Full Stack Applications
 - 🏆 Hackathon Participant
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/ORxvblZjHQ/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/TanmaySJ_03">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://github.com/tanmayjoshi01">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanmay-joshi-540678374/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
