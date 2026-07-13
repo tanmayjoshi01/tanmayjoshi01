@@ -7,65 +7,84 @@ Information Technology Student • Cloud & DevOps Enthusiast • Backend Develop
 <p align="center">
 Building scalable backend systems, exploring cloud technologies, and solving DSA problems.
 </p>
+
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Cloud+Engineer+in+Progress;Backend+Developer;Competitive+Programmer;Learning+System+Design;Always+Building+Something+New"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+Engineer+in+Progress;Backend+Developer;Competitive+Programmer;Learning+System+Design;Always+Learning+Something+New"/>
 </p>
-## 🚀 About Me
+
+---
+
+# 🚀 About Me
 
 - 🎓 Third Year B.E. Information Technology Student
 - ☁️ Learning AWS, Docker, Kubernetes & DevOps
 - 💻 Passionate about Backend Development
-- 📚 Exploring System Design and Computer Networks
-- 🧠 Solving DSA using C++
-- 🚀 Building Full Stack Applications
-- 🏆 Hackathon Participant
+- 🧠 Solving Data Structures & Algorithms using C++
+- 🌐 Exploring System Design, Computer Networks & Operating Systems
+- 🚀 Building Full Stack and AI-powered Applications
+- 🏆 Active Hackathon Participant
+- 🎯 Goal: Become a Cloud & Backend Engineer
 
-## 💻 Coding Profiles
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
 
 <a href="https://leetcode.com/u/ORxvblZjHQ/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/TanmaySJ_03">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://github.com/tanmayjoshi01">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tanmay-joshi-540678374/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
-🚀 Featured Projects
 
-### 🌾 Farm2Home
-Digital marketplace connecting farmers and buyers.
+---
 
-### 📰 CredCheck AI
-AI-powered fake news detection using NLP.
+# 🚀 Featured Projects
 
-### 🔧 Mechanic On Demand
-Uber-like mechanic booking platform.
+| Project | Description |
+|---------|-------------|
+| 🌾 Farm2Home | Digital marketplace connecting farmers and buyers |
+| 📰 CredCheck AI | AI-powered fake news detection using NLP |
+| 🔧 Mechanic On Demand | Uber-like mechanic booking platform |
+| 🧺 LaundroCare | Laundry Management System |
 
-### 🧺 LaundroCare
-Laundry Management System.
+---
 
-## 💻 Tech Stack
+# 📚 Currently Learning
+
+- ☁️ AWS Cloud
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔄 DevOps
+- 🏗️ System Design
+- 🧠 Data Structures & Algorithms
+- 🌐 Computer Networks
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,spring,mysql,mongodb,docker,kubernetes,aws,git,github,vscode,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,spring,mysql,mongodb,docker,kubernetes,aws,git,github,vscode,linux&perline=10"/>
 
 </p>
 
- 📊 GitHub Stats
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -81,20 +100,74 @@ Laundry Management System.
 
 </p>
 
-## 📈 Contribution Graph
+---
 
-[![Tanmay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmayjoshi01&theme=tokyo-night)](https://github.com/tanmayjoshi01)
+# 📈 Contribution Graph
 
-## 📫 Connect With Me
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayjoshi01&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanmayjoshi01&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/tanmayjoshi01/tanmayjoshi01/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ☁️ Earn AWS Cloud Certification
+- 🐳 Master Docker & Kubernetes
+- 🧠 Solve 500+ DSA Problems
+- 🚀 Build 10 Production-Ready Projects
+- 🌍 Contribute to Open Source
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:tanmay.joshi2506@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tanmay-joshi-540678374/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://leetcode.com/u/ORxvblZjHQ/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/TanmaySJ_03">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tanmayjoshi01&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
