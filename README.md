@@ -103,6 +103,17 @@ Laundry Management System for local businesses.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanmayjoshi01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=tanmayjoshi01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjoshi01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
