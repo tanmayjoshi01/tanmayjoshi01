@@ -43,3 +43,16 @@ Building scalable backend systems, exploring cloud technologies, and solving DSA
 </a>
 
 </p>
+## 🚀 Featured Projects
+
+### 🌾 Farm2Home
+Digital marketplace connecting farmers and buyers.
+
+### 📰 CredCheck AI
+AI-powered fake news detection using NLP.
+
+### 🔧 Mechanic On Demand
+Uber-like mechanic booking platform.
+
+### 🧺 LaundroCare
+Laundry Management System.
